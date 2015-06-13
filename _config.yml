@@ -8,4 +8,6 @@ twitter_username: gusnkt
 github_username:  nkt
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: [strikethrough]
